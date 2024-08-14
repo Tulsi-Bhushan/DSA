@@ -11,8 +11,7 @@ class Solution {
                 count++;
             }
             else{
-                count--;
-            }
+                count--;}
         }
         int count1=0;
         for(int i =0;i<nums.length;i++){
